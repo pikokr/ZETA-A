@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Zeta%27s%20Studio&descAlignY=51&descAlign=71)
-<center>
+
+<div align="center">
 👋 Welcome to my studio 👋
 
 I am a high school student developer in Korea! 🇰🇷
@@ -41,5 +42,7 @@ I am a high school student developer in Korea! 🇰🇷
 ![body](https://img.shields.io/badge/%E3%80%8E%CE%B6%E3%80%8F%20ZETA%230303-5865F2?style=flat-square&logo=Discord&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZETA-A&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZETA-A&count_private=0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ZETA-A/github-readme-stats)
+
+</div>
