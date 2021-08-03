@@ -42,7 +42,7 @@ I am a high school student developer in Korea! 🇰🇷
 ![body](https://img.shields.io/badge/%E3%80%8E%CE%B6%E3%80%8F%20ZETA%230303-5865F2?style=flat-square&logo=Discord&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZETA-A&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ZETA-A/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZETA-A&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZETA-A&layout=compact&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/ZETA-A/github-readme-stats)
 
 </div>
