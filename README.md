@@ -39,7 +39,7 @@ I am a high school student developer in Korea! 🇰🇷
 <a href="https://steamcommunity.com/id/U_Zeta/"><img src="https://img.shields.io/badge/U_ゼータ_U-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 ![body](https://img.shields.io/badge/AKIRIO1204-F56C2D?style=flat-square&logo=Origin&logoColor=white)
 ![body](https://img.shields.io/badge/AKIRIO7996-107C10?style=flat-square&logo=Xbox&logoColor=white)
-![body](https://img.shields.io/badge/%E3%80%8E%CE%B6%E3%80%8F%20ZETA%230303-5865F2?style=flat-square&logo=Discord&logoColor=white)
+[![body](https://img.shields.io/badge/%E3%80%8E%CE%B6%E3%80%8F%20ZETA%230303-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/334654108034269186)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZETA-A&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
